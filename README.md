@@ -3,7 +3,7 @@ Writen by Vietnamese. Learning algorithms. The language programming currently is
 
 source: `https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/`
 
-##Graph algorithms
+## Graph algorithms
  - Breadth First Search (BFS)
  - Depth First Search (DFS)
  - Shortest Path from source to all vertices **Dijkstra**
@@ -15,7 +15,7 @@ source: `https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-co
  - Articulation Points (or Cut Vertices) in a Graph
  - Bridges in a graph
 
-##Dynamic programming
+## Dynamic programming
  - Longest Common Subsequence
  - Longest Increasing Subsequence
  - Edit Distance
@@ -27,7 +27,7 @@ source: `https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-co
  - 0-1 Knapsack Problem
  - Assembly Line Scheduling
 
-##Searching and Sorting
+## Searching and Sorting
  - Binary Search
  - Quick Sort
  - Merge Sort
@@ -39,7 +39,7 @@ source: `https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-co
  - Counting Sort
  - Manacher’s algorithm
 
-##Number theory and Other Mathematical
+## Number theory and Other Mathematical
  - Primality Test | Set 1 (Introduction and School Method)
  - Primality Test | Set 2 (Fermat Method)
  - Primality Test | Set 3 (Miller–Rabin)
@@ -71,7 +71,7 @@ source: `https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-co
  - Russian Peasant Multiplication
  - Catalan Number
 
-##Geometrical and Network Flow Algorithms
+## Geometrical and Network Flow Algorithms
  - Convex Hull
  - Graham Scan
  - Line Intersection
@@ -83,7 +83,7 @@ source: `https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-co
  - Hopcroft–Karp Algorithm for Maximum Matching
  - Dinic’s algo and e-maxx
 
-##Data Structures
+## Data Structures
  - Binary Indexed Tree or Fenwick tree
  - Segment Tree (RMQ, Range Sum and Lazy Propagation)
  - K-D tree (See insert, minimum and delete)
