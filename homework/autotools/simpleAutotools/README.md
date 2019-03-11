@@ -1,6 +1,7 @@
 # Implement the autotools into project
 ## Why is autotools?
-    - The name GNU `autotools` commonly refers to the software refers to the software packages `Autoconf`, `automake`, `libtool`. They consist of a number of programs used by developers, among them `autoreconf`, `autoconf`, `autoheader`, `autoscan` (which come from `autoconf` package), `aclocal` and `automake`(which come from the `automake` package), and `libtoolize`(from `libtool` package)
+
+ - The name GNU `autotools` commonly refers to the software refers to the software packages `Autoconf`, `automake`, `libtool`. They consist of a number of programs used by developers, among them `autoreconf`, `autoconf`, `autoheader`, `autoscan` (which come from `autoconf` package), `aclocal` and `automake`(which come from the `automake` package), and `libtoolize`(from `libtool` package)
 
 ## Demo: Create the simplest autotools for the simple C program:
  - Create folder `src`(source code) and `build`
