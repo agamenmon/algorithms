@@ -7,8 +7,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* TODO */
 /*
-* todo: more comment and explain the variable
+* more comment and explain the variable
 *  this source doesnt clean.
 */
 
