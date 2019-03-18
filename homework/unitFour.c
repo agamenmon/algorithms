@@ -7,6 +7,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+* todo: more comment and explain the variable
+*  this source doesnt clean.
+*/
+
 int compare(const void *left, const void *right)
 {
     return (*(int *)right - *(int *)left);
@@ -19,12 +24,15 @@ int main(void)
 
     int iArray[] = {1, 2, 3, 4, 5, 6, 7};
 
-    /* sort the array */
-    qsort(iArray, sizeof(iArray)/sizeof(*iArray), sizeof(*iArray), cmp);
+#define LENGTH_IARRAY sizeof(iArray)/sizeof(*iArray)
+    qsort(iArray, sizeof(iArray)/sizeof(*iArray), sizeof(*iArray), cmp);     /* sort the array */
 
-    int c = 0;
-    while(c < sizeof(iArray)/sizeof){
-        /* code */
+    int count = 0;
+
+    while(count < LENGTH_IARRAY)
+    {
+        printf("%d\n", iArray[count]);
+        count++;
     }
     
     return 0;
